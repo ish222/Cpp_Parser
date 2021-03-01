@@ -1,0 +1,4 @@
+void main(void){
+    double num = 0.5;
+    printf("Hello it has been %d years since I learnt C.\n", 2021 - 2020);
+}
